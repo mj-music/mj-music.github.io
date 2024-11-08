@@ -1,1 +1,11 @@
+.container {
+  width:600px;
+  margin: auto;
+  border: thin solid black;
+  padding: 25px;
+}
 
+.nav {
+  display: flex;
+  justify-content: space-around;
+}
