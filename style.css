@@ -3,7 +3,7 @@
   margin: auto;
   border: thin solid black;
   padding: 25px;
-  background-color: lightblue;
+  background-color: lightgreen;
 }
 
 .nav {
@@ -13,5 +13,6 @@
 
 img {
   width: 450px;
+  border: think solid black;
 }
   
